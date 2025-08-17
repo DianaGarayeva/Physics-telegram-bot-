@@ -1,0 +1,16 @@
+<b>Welcome to I_like_physics_bot!</b>
+
+I will help you to study physics step by step
+
+<u> Main commands: </u>
+/start - run the bot
+/help - show the information about the bot
+/menu - open the main menu
+
+<i> How to use: </i>
+- press /menu or "Go to the main menu" button
+- choose option you like: "self study"/"all section"
+- "Self study" is a mode in which you will study physics step by step
+- use "All sections" if you need to study a certain section
+- study theory, learn formulas, solve problems, take quizzes
+Text us with "Send message"
